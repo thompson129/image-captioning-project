@@ -1,0 +1,20 @@
+# Ignore model weights
+captioner.pt
+
+# Ignore Gradio flagged data
+.gradio/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+.venv/
+.env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
